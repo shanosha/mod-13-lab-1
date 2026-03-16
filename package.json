@@ -1,0 +1,19 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "Express server that connects to a MongoDB database via the mongodb Node.js package.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Monique Wooten",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0"
+  }
+}

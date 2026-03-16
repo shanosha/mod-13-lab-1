@@ -17,7 +17,7 @@ Express server that connects to a MongoDB database via the mongodb Node.js packa
 - Setup your database connection credentials and port in a .env file
     ```
     MONGO_URI = YOUR_DATABASE_CONNECTION_URL_HERE
-    PORT = 3001
+    PORT = 3000
     ```  
 - Run the Express server using nodemon.
 

@@ -1,5 +1,5 @@
 # MongoDB connection via mongodb package
-Express server that connects to a MongoDB database via the mongodb Node.js package.
+Express server that connects to a MongoDB database via the mongodb driver.
 
 ## Setup
 - Clone the repository.

@@ -1,4 +1,4 @@
-# MongoDB connection via mongodb package
+# MongoDB connection via mongodb driver
 Express server that connects to a MongoDB database via the mongodb driver.
 
 ## Setup
@@ -20,7 +20,6 @@ Express server that connects to a MongoDB database via the mongodb driver.
     PORT = 3001
     ```  
 - Run the Express server using nodemon.
-
     ```
     npm run dev
     ```

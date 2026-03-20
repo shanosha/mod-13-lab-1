@@ -14,10 +14,10 @@ Express server that connects to a MongoDB database via the mongodb driver.
     ```
     npm install
     ```
-- Setup your database connection credentials and port in a .env file
+- Setup your database connection credentials and port in a .env file in the root directory of the project.
     ```
     MONGO_URI = YOUR_DATABASE_CONNECTION_URL_HERE
-    PORT = 3000
+    PORT = 3001
     ```  
 - Run the Express server using nodemon.
 
